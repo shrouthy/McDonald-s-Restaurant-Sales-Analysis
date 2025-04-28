@@ -1,7 +1,7 @@
 # McDonald-s-Restaurant-Sales-Analysis
 This project analyzes food sales data over the first quarter of the year using Excel Pivot Tables. It summarizes item prices across categories like Burgers, Breakfast, Fries, and more, offering a clear snapshot of monthly and total sales performance.
 
-**Objective:**
+**Objective:**  
 Create an interactive and dynamic dashboard in Excel using the McDonald's sales dataset to analyze various aspects of sales performance, item popularity, customer preferences, and time-based trends. The dashboard should provide actionable insights and allow for easy data exploration.
 
 **Features:**
